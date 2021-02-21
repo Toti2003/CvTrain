@@ -1,0 +1,7 @@
+E:\Programator\VS_C\CvTrain\bin\Debug\CvTrain.exe.config
+E:\Programator\VS_C\CvTrain\bin\Debug\CvTrain.exe
+E:\Programator\VS_C\CvTrain\bin\Debug\CvTrain.pdb
+E:\Programator\VS_C\CvTrain\obj\Debug\CvTrain.csprojAssemblyReference.cache
+E:\Programator\VS_C\CvTrain\obj\Debug\CvTrain.csproj.CoreCompileInputs.cache
+E:\Programator\VS_C\CvTrain\obj\Debug\CvTrain.exe
+E:\Programator\VS_C\CvTrain\obj\Debug\CvTrain.pdb
